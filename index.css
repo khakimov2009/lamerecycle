@@ -15,6 +15,7 @@ body{
     width:1440px;
     display: flex;
     flex-direction: column;
+    background: #000;
 }
 a{
     text-decoration:none;
